@@ -1,4 +1,4 @@
-# 皇冠网访问规则
+# 自定义访问规则
 
 # 域名后缀匹配
 # DOMAIN-SUFFIX,qichiyu.com
@@ -7,7 +7,7 @@
 DOMAIN-KEYWORD,mos0
 DOMAIN-KEYWORD,hga0
 
-# 皇冠服务器IP
+# 自定服务器IP
 IP-CIDR,66.133.92.120/31,no-resolve
 IP-CIDR,66.133.80.189/32,no-resolve
 IP-CIDR,66.133.80.190/32,no-resolve
