@@ -1,0 +1,44 @@
+# 皇冠网访问规则
+
+# 域名后缀匹配
+# DOMAIN-SUFFIX,qichiyu.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,mos0
+DOMAIN-KEYWORD,hga0
+
+# 皇冠服务器IP
+IP-CIDR,66.133.92.120/31,no-resolve
+IP-CIDR,66.133.80.189/32,no-resolve
+IP-CIDR,66.133.80.190/32,no-resolve
+IP-CIDR,66.133.93.142/32,no-resolve
+IP-CIDR,66.133.87.88/32,no-resolve
+IP-CIDR,24.235.28.100/30,no-resolve
+IP-CIDR,134.159.80.63/32,no-resolve
+IP-CIDR,134.159.80.64/31,no-resolve
+IP-CIDR,134.159.80.66/32,no-resolve
+IP-CIDR,43.229.3.100/30,no-resolve
+IP-CIDR,180.94.228.100/31,no-resolve
+IP-CIDR,180.94.228.102/32,no-resolve
+IP-CIDR,199.26.100.126/32,no-resolve
+IP-CIDR,210.16.117.100/30,no-resolve
+IP-CIDR,205.201.2.228/32,no-resolve
+IP-CIDR,205.201.1.199/32,no-resolve
+IP-CIDR,205.201.0.60/30,no-resolve
+IP-CIDR,205.201.0.64/32,no-resolve
+IP-CIDR,199.26.100.201/32,no-resolve
+IP-CIDR,199.26.100.228/32,no-resolve
+IP-CIDR,199.26.100.226/32,no-resolve
+IP-CIDR,199.26.100.170/32,no-resolve
+IP-CIDR,199.26.100.166/32,no-resolve
+IP-CIDR,199.26.97.191/32,no-resolve
+IP-CIDR,180.94.230.116/31,no-resolve
+IP-CIDR,66.133.92.70/32,no-resolve
+IP-CIDR,66.133.92.68/32,no-resolve
+IP-CIDR,66.133.81.166/32,no-resolve
+IP-CIDR,66.133.91.116/32,no-resolve
+IP-CIDR,61.14.172.140/31,no-resolve
+IP-CIDR,103.212.229.86/32,no-resolve
+IP-CIDR,123.108.119.60/32,no-resolve
+IP-CIDR,203.160.140.202/32,no-resolve
+IP-CIDR,205.201.2.201/32,no-resolve
