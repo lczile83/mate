@@ -5,13 +5,14 @@
 DOMAIN-SUFFIX,ewin007.com
 
 # 域名关键字匹配
-# 域名关键字匹配
+# 皇冠网关键字匹配
 DOMAIN-KEYWORD,mos0
 DOMAIN-KEYWORD,hga0
 DOMAIN-KEYWORD,mos1
 DOMAIN-KEYWORD,hga1
 
 # 自定服务器IP
+# 皇冠网服务器IP
 IP-CIDR,66.133.92.120/31,no-resolve
 IP-CIDR,66.133.80.189/32,no-resolve
 IP-CIDR,66.133.80.190/32,no-resolve
