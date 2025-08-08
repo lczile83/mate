@@ -1,11 +1,15 @@
 # 自定义访问规则
 
 # 域名后缀匹配
-# DOMAIN-SUFFIX,qichiyu.com
+# 球探体育
+DOMAIN-SUFFIX,ewin007.com
 
+# 域名关键字匹配
 # 域名关键字匹配
 DOMAIN-KEYWORD,mos0
 DOMAIN-KEYWORD,hga0
+DOMAIN-KEYWORD,mos1
+DOMAIN-KEYWORD,hga1
 
 # 自定服务器IP
 IP-CIDR,66.133.92.120/31,no-resolve
