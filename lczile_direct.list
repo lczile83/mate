@@ -16,6 +16,8 @@ DOMAIN-KEYWORD,mos1
 DOMAIN-KEYWORD,hga1
 
 # 自定服务器IP
+# 阿里云轻应用服务器IP
+IP-CIDR,8.219.166.164/32,no-resolve
 # 皇冠网服务器IP
 IP-CIDR,66.133.92.120/31,no-resolve
 IP-CIDR,66.133.80.189/32,no-resolve
