@@ -1,6 +1,9 @@
 # 自定义访问规则
 
 # 域名后缀匹配
+# 六六
+DOMAIN-SUFFIX,tuu8k.com
+DOMAIN-SUFFIX,tuu8f.com
 # 球探体育
 DOMAIN-SUFFIX,ewin007.com
 # 自己网站
